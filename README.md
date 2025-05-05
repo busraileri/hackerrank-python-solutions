@@ -1,6 +1,6 @@
 ## HackerRank Python Solutions
 
-This repository contains my solutions to various Python challenges from HackerRank. The solutions include a range of problems that focus on basic syntax, algorithms, data structures, and other advanced topics.
+This repository contains my solutions to various Python challenges from HackerRank. The solutions include a range of problems that focus on basic syntax, algorithms, and other advanced topics.
 
 
 ## Index of Solutions
